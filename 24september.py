@@ -42,7 +42,7 @@ for i in lst:
 # start : df value=0 , stop : df value = length-1, step: df value =1
 # step = -1 , list reverse m access hogi
 lst1=[10,20]
-lst2=[10,20]
+lst2=[20,10]  # sequence matters here
 #lst2=[20,10]
 print(lst1==lst2)
 #print(lst1==lst2)
